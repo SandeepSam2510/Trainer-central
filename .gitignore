@@ -1,0 +1,4 @@
+.env
+.venv/
+processed.db
+__pycache__/
